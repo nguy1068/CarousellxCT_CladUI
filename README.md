@@ -1,7 +1,5 @@
 # Intro
 
-> This is a trim off version to share with 3rd-party vendors.
-
 Clad UI Design System is a system of design tokens, guidelines, theming solution and components library that helps Chotot front end and mobile engineers build consistent UIs faster and more satisfyingly.
 
 
