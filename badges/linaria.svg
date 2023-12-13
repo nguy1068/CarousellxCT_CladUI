@@ -1,0 +1,20 @@
+<svg width="111" height="20" viewBox="0 0 1110 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Linaria: ^1.4.0">
+  <title>Linaria: ^1.4.0</title>
+  <linearGradient id="a" x2="0" y2="100%">
+    <stop offset="0" stop-opacity=".1" stop-color="#EEE"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <mask id="m"><rect width="1110" height="200" rx="30" fill="#FFF"/></mask>
+  <g mask="url(#m)">
+    <rect width="630" height="200" fill="#555"/>
+    <rect width="480" height="200" fill="#DE2D68" x="630"/>
+    <rect width="1110" height="200" fill="url(#a)"/>
+  </g>
+  <g aria-hidden="true" fill="#fff" text-anchor="start" font-family="Verdana,DejaVu Sans,sans-serif" font-size="110">
+    <text x="220" y="148" textLength="370" fill="#000" opacity="0.25">Linaria</text>
+    <text x="210" y="138" textLength="370">Linaria</text>
+    <text x="685" y="148" textLength="380" fill="#000" opacity="0.25">^1.4.0</text>
+    <text x="675" y="138" textLength="380">^1.4.0</text>
+  </g>
+  <image x="40" y="35" width="130" height="130" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3My44NiA2Ny4zNSI+CiAgPHBhdGggZmlsbD0iI0RFMkQ2OCIgZD0iTTIzLjIxIDQ4LjM3aC02Ljg2YTExLjA5IDExLjA5IDAgMDEwLTIyLjE4IDIuNjMgMi42MyAwIDEwMC01LjI2IDE2LjM1IDE2LjM1IDAgMDAwIDMyLjdoNi44NkExMS4xIDExLjEgMCAwMTM0LjMgNjQuNzJhMi42MyAyLjYzIDAgMDA1LjI2IDAgMTYuMzcgMTYuMzcgMCAwMC0xNi4zNS0xNi4zNXptMzQuMy0yNy40NGExNi4zOSAxNi4zOSAwIDAwLTcuNiAxLjg3QTY0LjQzIDY0LjQzIDAgMDEzOCAyNy43MWE3LjMzIDcuMzMgMCAwMS0zLjcxLjE0IDExLjQ0IDExLjQ0IDAgMDEyLjM2LTIyLjU4QTExLjQ0IDExLjQ0IDAgMDE0OC4zNyAxNi43YTIuNjMgMi42MyAwIDAwNS4yNiAwQTE2LjcgMTYuNyAwIDEwMjMuNzkgMjdhMTYuNzYgMTYuNzYgMCAwMDkuMzQgNiAxMi42IDEyLjYgMCAwMDYuMzktLjIyIDY5LjYxIDY5LjYxIDAgMDAxMi44NC01LjMgMTEgMTEgMCAwMTUuMTUtMS4yNiAxMS4wOSAxMS4wOSAwIDExMCAyMi4xOGgtNi44NmExNi4zNSAxNi4zNSAwIDAwLTguMTggMi4xOSAyLjYzIDIuNjMgMCAxMDIuNjMgNC41NiAxMS4wOCAxMS4wOCAwIDAxNS41NC0xLjQ4aDYuODZhMTYuMzUgMTYuMzUgMCAxMDAtMzIuN3oiLz4KPC9zdmc+Cg=="/>
+</svg>
